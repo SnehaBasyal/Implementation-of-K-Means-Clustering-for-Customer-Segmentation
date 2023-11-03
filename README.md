@@ -85,8 +85,11 @@ plt.title("Customer Segments")
 ## Elbow Graph:
 ![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](ml84.png)
 
-## K-Means Cluster Formation:
+## K-means Cluster Formation:
 ![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](ml85.png)
+
+## Predicted Value:
+![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](ml86.png)
 
 ## Customer Segment Graph:
 ![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](ml87.png)
